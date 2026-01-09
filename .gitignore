@@ -1,0 +1,31 @@
+## --- FICHIERS DE COMPILATION .NET ---
+[Bb]in/
+[Oo]bj/
+
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+## --- FICHIERS DE PUBLICATION / PACKAGES ---
+publish/
+*.nupkg
+# Dossier des outils de build 
+.pnpm-store/
+node_modules/
+
+## --- TESTS ET COUVERTURE DE CODE ---
+TestResults/
+*.sequenced
+*.coverage
+*.config
+
+## --- SYSTÈME D'EXPLOITATION ---
+.DS_Store
+Thumbs.db
+
+## --- FICHIERS DE CONFIGURATION LOCALE ---
+# On ne versionne jamais les secrets ou les configs locales
+appsettings.Development.json
+appsettings.Local.json

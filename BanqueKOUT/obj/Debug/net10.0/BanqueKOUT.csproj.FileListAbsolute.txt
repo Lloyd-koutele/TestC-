@@ -1,0 +1,11 @@
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\bin\Debug\net10.0\BanqueKOUT.deps.json
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\bin\Debug\net10.0\BanqueKOUT.dll
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\bin\Debug\net10.0\BanqueKOUT.pdb
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\BanqueKOUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\BanqueKOUT.AssemblyInfoInputs.cache
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\BanqueKOUT.AssemblyInfo.cs
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\BanqueKOUT.csproj.CoreCompileInputs.cache
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\BanqueKOUT.dll
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\refint\BanqueKOUT.dll
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\BanqueKOUT.pdb
+C:\Users\marvi\OneDrive\Desktop\prj\BanqueKOUT\BanqueKOUT\obj\Debug\net10.0\ref\BanqueKOUT.dll
